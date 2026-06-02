@@ -12,7 +12,7 @@ const About = () => {
           transition={{ duration: 0.8, ease: "easeOut" }}
         >
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-heading font-bold leading-tight tracking-tight">
-            Building <span className="italic font-light text-secondary">meaningful</span> systems through data and technology.
+            Creating <span className="italic font-light text-secondary">modern</span> systems using ai and data.
           </h2>
         </motion.div>
         
